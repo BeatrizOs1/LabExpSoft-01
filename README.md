@@ -52,7 +52,7 @@ python -m venv .venv
 ```
 ### **2️⃣ Ativando o ambiente virtual**
 
-###✅ No macOS e Linux:
+### ✅ No macOS e Linux:
 
 ```bash
 source .venv/bin/activate
