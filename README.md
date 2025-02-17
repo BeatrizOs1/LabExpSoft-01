@@ -50,10 +50,15 @@ Abra o terminal e execute o seguinte comando:
 
 ```bash
 python -m venv .venv
-
+```
 ### **2️⃣ Ativando o ambiente virtual**
 
 #### ✅ No macOS e Linux:
 
 ```bash
 source .venv/bin/activate
+```
+### ✅ No Windows:
+```powershell
+.venv\Scripts\Activate
+```
