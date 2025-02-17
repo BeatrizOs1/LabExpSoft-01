@@ -84,7 +84,8 @@ Para acessar a API do GitHub, você precisa de um token de autenticação.
 
 Substitua o valor de TOKEN pela string do token gerado:
 
-```TOKEN = “token_token_token”
+```bash
+TOKEN = “token_token_token”
 ```
 
 ### **5️⃣ Executando o Script**  
