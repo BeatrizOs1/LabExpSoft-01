@@ -64,7 +64,23 @@ pip install requests requests-toolbelt gql pandas
 ```
 Isso garantirá que todas as dependências estejam configuradas corretamente.
 
-### **4️⃣ Executando o Script**  
+### **4️⃣ Configuração do Token**
+
+Para acessar a API do GitHub, você precisa de um token de autenticação.
+
+- Crie um token do GitHub:
+
+1. Acesse GitHub Developer Settings.
+2. Clique em Generate new token.
+3. Selecione a permissão repo.
+4. Clique em Generate token e copie o token gerado.
+5. Adicione o token no código:
+
+Substitua o valor de TOKEN pela string do token gerado:
+
+TOKEN = “token_token_token”
+
+### **5️⃣ Executando o Script**  
 Após configurar o ambiente e instalar as dependências, execute o script principal do projeto com o seguinte comando:
 
 ```bash
