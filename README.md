@@ -81,7 +81,7 @@ Substitua o valor de TOKEN pela string do token gerado:
 TOKEN = “token_token_token”
 
 ### **5️⃣ Executando o Script**  
-Após configurar o ambiente e instalar as dependências, execute o script principal do projeto com o seguinte comando:
+Após configurar o ambiente, instalar as dependências e configurar o token, execute o script principal do projeto com o seguinte comando:
 
 ```bash
 python github_query.py
