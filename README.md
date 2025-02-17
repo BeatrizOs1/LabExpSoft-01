@@ -34,9 +34,8 @@ Estudo das principais características de sistemas populares open-source. Dessa 
 Para que o projeto funcione corretamente, você precisa instalar as seguintes bibliotecas:  
 
 - `requests` - Para fazer requisições HTTP para a API do GitHub.  
-- `requests-toolbelt` - Ferramentas auxiliares para manipulação de requisições.  
 - `gql` - Para interagir com a API GraphQL do GitHub.  
-- `pandas` - Para manipulação e análise dos dados coletados.  
+  
 
 ---
 
