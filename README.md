@@ -60,7 +60,7 @@ python -m venv .venv
 Após ativar o ambiente virtual, instale as bibliotecas necessárias executando o comando abaixo:
 
 ```bash
-pip install requests requests-toolbelt gql pandas
+pip install requests
 ```
 Isso garantirá que todas as dependências estejam configuradas corretamente.
 
