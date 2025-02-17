@@ -62,3 +62,18 @@ source .venv/bin/activate
 ```powershell
 .venv\Scripts\Activate
 ```
+### **3️⃣ Instalando as Dependências**  
+Após ativar o ambiente virtual, instale as bibliotecas necessárias executando o comando abaixo:
+
+```bash
+pip install requests requests-toolbelt gql pandas
+```
+Isso garantirá que todas as dependências estejam configuradas corretamente.
+
+### **4️⃣ Executando o Script**  
+Após configurar o ambiente e instalar as dependências, execute o script principal do projeto com o seguinte comando:
+
+```bash
+python github_query.py
+```
+Isso fará com que o script colete os dados dos 100 repositórios mais populares no GitHub e exiba as informações no terminal.
