@@ -65,6 +65,9 @@ Os dados foram armazenados em um arquivo .csv e analisados utilizando Python, bi
 
 - **Resultado:** A mediana da idade dos repositórios analisados é de aproximadamente 7 anos. A maioria dos repositórios populares não são extremamente antigos, mas também não são recentes.
 
+![output](https://github.com/user-attachments/assets/e3f4cebd-da3d-4645-982c-a615c33bd970)
+
+
 **RQ 02: Sistemas populares recebem muita contribuição externa?**
 
 - **Métrica:** Total de pull requests aceitas
