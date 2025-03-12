@@ -74,11 +74,17 @@ Os dados foram armazenados em um arquivo .csv e analisados utilizando Python, bi
 
 - **Resultado:** A mediana de pull requests aceitas é 1.200, indicando que esses repositórios são bastante colaborativos.
 
+![output (1)](https://github.com/user-attachments/assets/5b8940b0-ef9a-41a9-8acb-e8f1961e6bd0)
+
+
 **RQ 03: Sistemas populares lançam releases com frequência?**
 
 -**Métrica:** Total de releases
 
 - **Resultado:** A mediana de releases é 35, mostrando que repositórios populares têm atualizações significativas ao longo do tempo.
+
+![output (2)](https://github.com/user-attachments/assets/d8080d09-dcf2-4c04-9306-ae66ae76236c)
+
 
 **RQ 04: Sistemas populares são atualizados com frequência?**
 
@@ -86,11 +92,17 @@ Os dados foram armazenados em um arquivo .csv e analisados utilizando Python, bi
 
 - **Resultado:** A maioria dos repositórios foi atualizada nos últimos 3 meses, o que indica alta manutenibilidade.
 
+![output (3)](https://github.com/user-attachments/assets/e3717bab-5996-4b9c-8d98-3c8e3642124d)
+
+
 **RQ 05: Sistemas populares são escritos nas linguagens mais populares?**
 
 - **Métrica:** Linguagem primária
 
 - **Resultado:** As linguagens mais comuns nos repositórios analisados são JavaScript, Python e TypeScript, confirmando a tendência de linguagens populares dominarem os projetos mais bem avaliados.
+
+![output (4)](https://github.com/user-attachments/assets/065485c0-af25-4f34-9186-5a1d9dee63d1)
+
 
 **RQ 06: Sistemas populares possuem um alto percentual de issues fechadas?**
 
@@ -98,11 +110,17 @@ Os dados foram armazenados em um arquivo .csv e analisados utilizando Python, bi
 
 - **Resultado:** A média de issues fechadas está em torno de 78%, indicando que a maioria dos problemas são resolvidos rapidamente.
 
+![output (5)](https://github.com/user-attachments/assets/58573903-d2c7-42a2-8eee-343a836c5e4f)
+
+
 **RQ 07: Sistemas escritos em linguagens populares recebem mais contribuição externa, lançam mais releases e são atualizados com mais frequência?**
 
 - **Métrica:** Comparativo entre linguagens
 
 - **Resultado:** Repositórios em Python e JavaScript apresentam maior número de pull requests aceitas e releases frequentes. Linguagens menos comuns têm menor participação externa.
+
+![output (6)](https://github.com/user-attachments/assets/056c62d6-4650-47ae-adbe-2800f0c59449)
+
 
 ## Discussão
 
